@@ -89,6 +89,7 @@ Desktop Computers
 Laptops
 Tablets
 Mobile Devices
+Mobile Devices
 🔮 Future Enhancements
 Dark/Light Theme Toggle
 Project Filtering System
