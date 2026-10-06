@@ -1,4 +1,4 @@
-🌐 Personal Portfolio Website
+🌐 Personal Portfolio Website of Chethan P S
 
 A modern, responsive, and professional portfolio website developed using HTML5 and CSS3 to showcase academic achievements, technical skills, projects, leadership experience, and professional contact information. The portfolio is designed with a sleek developer-inspired user interface featuring a dark theme, glassmorphism effects, smooth navigation, responsive layouts, and interactive components to provide an engaging user experience.
 
